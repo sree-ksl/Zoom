@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/MainView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/frag_title_back" />
+
+    <ScrollView
+        android:id="@+id/ScrollView01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <TableLayout
+            android:id="@+id/TableLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:text="App Version 1.0" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Yeah" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Yeah" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Yeah" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Yeah" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Yesh" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Special thanks to RATT" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Open-source software, licensed under GPLv3." />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Download source-code at" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Git" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Yeah" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:background="#A0402020"
+                android:gravity="center"
+                android:text="Yeah" />
+        </TableLayout>
+    </ScrollView>
+
+</LinearLayout>
+

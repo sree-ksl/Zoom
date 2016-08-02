@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/MainView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/row_even"
+    android:orientation="vertical">
+
+    <include layout="@layout/frag_title_back" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <ImageView
+            android:id="@+id/medal_shelf"
+            android:layout_width="320dp"
+            android:layout_height="262dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/medal_shelf" />
+
+        <TextView
+            android:id="@+id/medal_shelf_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/medal_shelf"
+            android:layout_alignTop="@id/medal_shelf"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="0dp"
+            android:clickable="true"
+            android:gravity="left"
+            android:onClick="changeYourName"
+            android:text="@string/achvYourName"
+            android:textColor="#FF000000"
+            android:textSize="30dp" />
+
+        <ImageView
+            android:id="@+id/medal1"
+            android:layout_width="82dp"
+            android:layout_height="50dp"
+            android:layout_alignTop="@id/medal_shelf"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="45dp"
+            android:contentDescription=""
+            android:src="@drawable/medal1_shadow" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/medal1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-10dp"
+            android:gravity="center"
+            android:text="@string/achvPhila"
+            android:textColor="#FF000000"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/medal1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:text="@string/achvPhilaDesc"
+            android:textColor="#FF000000"
+            android:textSize="15dp" />
+
+    </RelativeLayout>
+</LinearLayout>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="79571684483259"
+    token="7191181104501600524" >
+
+    <task
+        name="javac"
+        duration="714" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="825" />
+    <task
+        name="verifier"
+        duration="89" />
+
+    <artifact
+        location="/Users/hello/Projects/tpt/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/hello/Projects/tpt/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/hello/Projects/tpt/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/hello/Projects/tpt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_144fc23b2934d045c85c1716edec8346c845b8a6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/hello/Projects/tpt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_59df9bba8643aa0f7afad8d541529b1c76160f2c/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/hello/Projects/tpt/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/hello/Projects/tpt/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/hello/Projects/tpt/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/hello/Projects/tpt/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/hello/Projects/tpt/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+
+</instant-run>

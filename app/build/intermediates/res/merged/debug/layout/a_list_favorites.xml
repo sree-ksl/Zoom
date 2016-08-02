@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/frag_title" />
+
+    <LinearLayout
+        android:id="@+id/favorite_content"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0.0sp"
+        android:orientation="vertical">
+
+        <include layout="@layout/frag_times_path2" />
+
+        <include layout="@layout/frag_times_path2" />
+
+        <include layout="@layout/frag_times_path2" />
+
+    </LinearLayout>
+
+    <include layout="@layout/frag_vehicle_types" />
+</LinearLayout>
+

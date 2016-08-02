@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/StationStatusRow"
+    style="@style/LikeTitleContainer"
+    android:background="@drawable/row_back_even"
+    android:baselineAligned="false">
+
+    <TextView
+        android:id="@+id/aprfooltext"
+        style="@style/LikeTitleIcon"
+        android:layout_width="70dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="2.6dp"
+        android:text="8 persoane asteapta"
+        android:textColor="#FF300000"
+        android:textSize="10sp"
+        android:visibility="invisible" />
+
+    <RelativeLayout
+        style="@style/LinePath"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/LinePathLine"
+            style="@style/PathBullet"
+            android:layout_height="fill_parent"
+            android:background="@drawable/line_middle_green"
+            android:contentDescription="@string/lblStation" />
+
+        <ImageView
+            android:id="@+id/LinePathBullet"
+            style="@style/PathBullet"
+            android:background="@drawable/line_bullet_green"
+            android:contentDescription="@string/lblStation" />
+
+        <ImageView
+            android:id="@+id/VehicleArrivingBullet"
+            style="@style/VehicleArrivingBullet"
+            android:background="@drawable/arrow_right_lower_half"
+            android:contentDescription="@string/lblVehicle" />
+
+        <ImageView
+            android:id="@+id/VehicleBoardingBullet"
+            style="@style/VehicleBoardingBullet"
+            android:background="@drawable/arrow_right"
+            android:contentDescription="@string/lblVehicle" />
+
+        <ImageView
+            android:id="@+id/VehicleDepartingBullet"
+            style="@style/VehicleDepartingBullet"
+            android:background="@drawable/arrow_right_upper_half"
+            android:contentDescription="@string/lblVehicle" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/aprfoolbutton"
+        android:layout_width="60dp"
+        android:layout_height="35dp"
+        android:layout_marginRight="3dp"
+        android:background="@drawable/button_flat_back"
+        android:lines="2"
+        android:padding="0dp"
+        android:text="Solicita vehicul"
+        android:textColor="#FFA00000"
+        android:textSize="12sp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/StationLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblExampleDeparture"
+            android:textColor="#FF555555"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/StationTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20sp"
+                android:text="@string/lblExampleTime"
+                android:textColor="#FF0F0F0F"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/StationError"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="#FFCC0000"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

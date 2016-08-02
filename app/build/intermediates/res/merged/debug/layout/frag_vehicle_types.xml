@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout style="@style/CategoryButtonContainer">
+
+        <Button
+            android:id="@+id/tram_button"
+            style="@style/CategoryButton"
+            android:background="@drawable/tram_button" />
+
+        <Button
+            android:id="@+id/trolleybus_button"
+            style="@style/CategoryButton"
+            android:background="@drawable/trolleybus_button" />
+
+        <Button
+            android:id="@+id/bus_button"
+            style="@style/CategoryButton"
+            android:background="@drawable/bus_button" />
+
+    </LinearLayout>
+</merge>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout style="@style/CategoryButtonContainer">
+
+        <Button
+            android:id="@+id/UpdateButton"
+            style="@style/CategoryButton"
+            android:background="@drawable/upd_button" />
+
+        <Button
+            android:id="@+id/StarButton"
+            style="@style/CategoryButton"
+            android:background="@drawable/star_off_button" />
+
+        <Button
+            android:id="@+id/ConnectionsButton"
+            style="@style/CategoryButton"
+            android:background="@drawable/plus_button" />
+    </LinearLayout>
+</merge>

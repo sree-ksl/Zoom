@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+	<color name="row_even">#FFDDDDDD</color>
+	<color name="row_odd">#FFEEEEEE</color>
+	<color name="transparent">#00000000</color>
+	<color name="ugly_gray">#FFB0B0B0</color>
+	
+	<!-- Vehicle type specific -->
+	<color name="vehicle_bus">#FFCC0000</color>
+	<color name="vehicle_express">#FF669900</color>
+	<color name="vehicle_metro">#FFFF8800</color>
+	<color name="vehicle_tram">#FF0099CC</color>
+	<color name="vehicle_trolley">#FF9933CC</color>
+	
+	<!-- Times color codes -->
+	<color name="data_updating">#FF99CC00</color>
+
+	<color name="colorPrimary">#3F51B5</color>
+	<color name="colorPrimaryDark">#303F9F</color>
+	<color name="colorAccent">#FF4081</color>
+
+	<color name="background">#03a9f4</color>
+	<color name="darkBg">#0288d1</color>
+	<color name="lightBg">#b3e5fc</color>
+	<color name="text">#ffffff</color>
+	<color name="accent">#536dfe</color>
+	<color name="primaryText">#212121</color>
+	<color name="secondaryText">#727272</color>
+	<color name="divider">#b6b6b6</color>
+</resources>

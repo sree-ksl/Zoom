@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        style="@style/LikeTitleContainer"
+        android:background="#FF222222">
+
+        <ImageView
+            style="@style/LikeTitleIcon"
+            android:contentDescription="App Icon"
+            android:onClick="finishActivity"
+            android:src="@drawable/icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center_vertical"
+            android:text="Transport public"
+            android:textColor="#FFDDDDDD"
+            android:textSize="12sp" />
+
+        <View
+            style="@style/LikeTitleContent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#00000000" />
+
+        <ImageView
+            android:id="@+id/badge"
+            style="@style/UserBadge"
+            android:contentDescription="@string/app_user_achieves"
+            android:onClick="openAchievementsView"
+            android:src="@drawable/badge_contributor" />
+
+        <ImageView
+            android:id="@+id/menu_button"
+            style="@style/MoreOptionsButton"
+            android:contentDescription="@string/app_settings"
+            android:onClick="openContextMenu"
+            android:scaleType="centerCrop"
+            android:src="@drawable/menu_light_button" />
+    </LinearLayout>
+</merge>

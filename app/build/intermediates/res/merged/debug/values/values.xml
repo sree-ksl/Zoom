@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_base_download_url_entries">
+        <item>http://www.ratt.ro/txt/</item>
+        <item>http://82.77.146.19/txt/</item>
+    </string-array>
+    <string-array name="pref_base_download_url_entryvalues">
+        <item>http://www.ratt.ro/txt/</item>
+        <item>http://82.77.146.19/txt/</item>
+    </string-array>
+    <color name="accent">#536dfe</color>
+    <color name="background">#03a9f4</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="darkBg">#0288d1</color>
+    <color name="data_updating">#FF99CC00</color>
+    <color name="divider">#b6b6b6</color>
+    <color name="lightBg">#b3e5fc</color>
+    <color name="primaryText">#212121</color>
+    <color name="row_even">#FFDDDDDD</color>
+    <color name="row_odd">#FFEEEEEE</color>
+    <color name="secondaryText">#727272</color>
+    <color name="text">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="ugly_gray">#FFB0B0B0</color>
+    <color name="vehicle_bus">#FFCC0000</color>
+    <color name="vehicle_express">#FF669900</color>
+    <color name="vehicle_metro">#FFFF8800</color>
+    <color name="vehicle_tram">#FF0099CC</color>
+    <color name="vehicle_trolley">#FF9933CC</color>
+    <string name="achvPhila">Filantrop</string>
+    <string name="achvPhilaDesc">Contribuie la imbunatatirea estimarilor</string>
+    <string name="achvYourName">Aici numele tau</string>
+    <string name="app_credits">Author Credits</string>
+    <string name="app_name">Zoom</string>
+    <string name="app_settings">Settings</string>
+    <string name="app_user_achieves">Medaliile calatorului</string>
+    <string name="lblAffirmative">Da</string>
+    <string name="lblBarredLine">Barat</string>
+    <string name="lblBoarding">In statie</string>
+    <string name="lblBus">Autobuze</string>
+    <string name="lblExampleArrival">Pod Calea Sagului</string>
+    <string name="lblExampleDeparture">Catedrala Mitropolitana</string>
+    <string name="lblExampleError">Network/Internet error</string>
+    <string name="lblExampleLine">E33</string>
+    <string name="lblExampleLineKind">troleibuz</string>
+    <string name="lblExampleTime">77 min</string>
+    <string name="lblExpress">Expres</string>
+    <string name="lblMetro">Metropolitan</string>
+    <string name="lblNegative">Nu</string>
+    <string name="lblOther">Alte legaturi</string>
+    <string name="lblShortBus">autobuz</string>
+    <string name="lblShortExpress">expres</string>
+    <string name="lblShortMetro">metropolitan</string>
+    <string name="lblShortOther">masina</string>
+    <string name="lblShortTrams">tramvai</string>
+    <string name="lblShortTrolleys">troleibuz</string>
+    <string name="lblStation">Statie</string>
+    <string name="lblStatusAllIsGood">OK</string>
+    <string name="lblStatusNetworkError">Eroare de conexiune la internet</string>
+    <string name="lblStatusUpdateCanceled">Actualizare anulata</string>
+    <string name="lblStatusWaitingUpdate">Actualizare</string>
+    <string name="lblTrams">Tramvaie</string>
+    <string name="lblTrolleys">Troleibuze</string>
+    <string name="lblVStatusArriving">se apropie</string>
+    <string name="lblVStatusArrivingDeparting">tranzit</string>
+    <string name="lblVStatusAway"/>
+    <string name="lblVStatusBoarding">in statie</string>
+    <string name="lblVStatusDeparting">paraseste statia</string>
+    <string name="lblVehicle">Vehicol</string>
+    <string name="loading">Loading...</string>
+    <string name="pref_achieve_name">pref_achieve_name</string>
+    <string name="pref_analytics_cache">pref_analytics_cache</string>
+    <string name="pref_analytics_enabled">analytics_enabled</string>
+    <string name="pref_analytics_enabled_summary">Participate in arrival time estimation improvement program.</string>
+    <string name="pref_analytics_enabled_title">Help improve estimates</string>
+    <string name="pref_analytics_url">https://www.aeliptus.com/tpt-analytics</string>
+    <string name="pref_base_download_url">base_download_url</string>
+    <string name="pref_base_download_url_default">http://www.ratt.ro/txt/</string>
+    <string name="pref_base_download_url_dialog">Choose URL</string>
+    <string name="pref_base_download_url_summary">The URL address which provides vehicle arrival estimates.</string>
+    <string name="pref_base_download_url_title">Download URL</string>
+    <string name="pref_current_version">current_version</string>
+    <string name="pref_device_id">device_id</string>
+    <string name="pref_favorite_paths">favorite_paths</string>
+    <string name="sel">Select Line</string>
+    <string name="selBus">Bus Lines</string>
+    <string name="selConnections">Select Connections</string>
+    <string name="selPathLabel">Select Direction</string>
+    <string name="selTrams">Tram Lines</string>
+    <string name="selTrolleys">Trolleybus Lines</string>
+    <string name="service_name">Public Transport Data Service</string>
+    <string name="switch_direction">Switch Direction</string>
+    <string name="upd">Update Times</string>
+    <string name="upd_error">Update could not complete. Some network connection errors have been encountered. Selecting an alternate download URL from the settings may fix this if your internet connection is working.</string>
+    <string name="upgrade_analytics_message">Deoarece dezvoltatorii aplicatiei au primit plangeri
+	    referitoare la calitatea uneori scazuta a timpilor afisati, s-au hotarat sa demareze un 
+	    proiect de crestere a preciziei estimarilor. Pentru acest proiect, dezvoltatorii au nevoie 
+	    de date si de ajutorul utilizatorilor pentru a furniza aceste date. Tot ce trebuie sa faceti
+	    este sa fiti de acord cu includerea dumneavoastra in program si sa folositi aplicatia in 
+	    modul uzual. Daca sunteti de acord, aplicatia va folosi cu 10% mai mult trafic de date
+	    decat de obicei. Sunteti de acord cu imbunatatirea aplicatiei?</string>
+    <string name="upgrade_analytics_title">Estimari mai precise?</string>
+    <style name="CategoryButton">
+        <item name="android:layout_width">41.8dp</item>
+        <item name="android:layout_height">41.8dp</item>
+    	<item name="android:layout_gravity">center</item>
+    	<item name="android:gravity">center_vertical</item>
+		<item name="android:layout_marginLeft">8.1dp</item>
+		<item name="android:layout_marginRight">8.1dp</item>
+    </style>
+</resources>

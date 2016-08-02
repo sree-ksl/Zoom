@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CategoryButtonContainer">
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">73.2dp</item>
+    	<item name="android:orientation">horizontal</item>
+    	<item name="android:gravity">center</item>
+    	<item name="android:layout_marginBottom">0dp</item>
+    	<item name="android:layout_marginTop">0dp</item>
+        <item name="android:background">#FF222222</item>
+    </style>
+    <style name="InlineUpdateButton" parent="LikeTitleContent">
+       	<item name="android:paddingLeft">8.4dp</item>
+        <item name="android:layout_width">38.4dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+    <style name="LikeTitleContainer">
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:orientation">horizontal</item>
+    	<item name="android:gravity">center_vertical</item>
+    	<item name="android:layout_marginBottom">0dp</item>
+    	<item name="android:layout_marginTop">0dp</item>
+        <item name="android:layout_marginLeft">0dp</item>
+    </style>
+    <style name="LikeTitleContent" parent="StandardHItem">
+        <item name="android:layout_height">38.4dp</item>
+	</style>
+    <style name="LikeTitleIcon" parent="LikeTitleContent">
+        <item name="android:layout_width">65dp</item>
+		<item name="android:layout_marginRight">7dp</item>
+        <item name="android:layout_marginLeft">7.6dp</item>
+	</style>
+    <style name="LinePath">
+        <item name="android:layout_width">40dp</item>
+		<item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">-24dp</item>
+        <item name="android:layout_marginRight">7dp</item>
+    </style>
+    <style name="LineVehicle">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_alignParentRight">true</item>
+		<item name="android:layout_marginRight">7dp</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="MoreOptionsButton" parent="LikeTitleContent">
+       	<item name="android:paddingLeft">8.4dp</item>
+        <item name="android:layout_width">38.4dp</item>
+    </style>
+    <style name="PathBullet">
+        <item name="android:layout_width">15dp</item>
+        <item name="android:layout_height">15dp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="PathLineLabel">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30.6sp</item>
+        <item name="android:lineSpacingExtra">-7sp</item>
+	</style>
+    <style name="PathRightArrow" parent="LikeTitleContent">
+        <item name="android:layout_width">32.0dp</item>
+    </style>
+    <style name="StandardHItem">
+    	<item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">7.3dp</item>
+		<item name="android:layout_marginBottom">7.3dp</item>
+	</style>
+    <style name="TitleBackArrow" parent="LikeTitleContent">
+        <item name="android:layout_width">20.0dp</item>
+    </style>
+    <style name="TitleIconWithBack" parent="LikeTitleIcon">
+        <item name="android:layout_marginLeft">-13dp</item>
+    </style>
+    <style name="UserBadge" parent="LikeTitleContent">
+        <item name="android:layout_width">38.4dp</item>
+        <item name="android:scaleType">fitCenter</item>
+       	<item name="android:visibility">gone</item>
+    </style>
+    <style name="VehicleArrivingBullet" parent="LineVehicle">
+        <item name="android:layout_height">12dp</item>
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="VehicleBoardingBullet" parent="LineVehicle">
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="VehicleDepartingBullet" parent="LineVehicle">
+        <item name="android:layout_height">12dp</item>
+        <item name="android:layout_alignParentBottom">true</item>      
+    </style>
+</resources>

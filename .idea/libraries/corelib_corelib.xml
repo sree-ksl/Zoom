@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="corelib.corelib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/corelib/build/libs/corelib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

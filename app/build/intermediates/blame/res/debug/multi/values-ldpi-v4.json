@@ -1,0 +1,364 @@
+[
+    {
+        "outputFile": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/values-ldpi-v4/values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_vehicle_types.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endLine": 22,
+                    "endColumn": 9,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endLine": 18,
+                        "endColumn": 9,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1306
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1311,
+                    "endLine": 33,
+                    "endColumn": 16,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2228,
+                        "endLine": 54,
+                        "endColumn": 16,
+                        "endOffset": 2491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 1954
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2782,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 3157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1959,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2141
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1707,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2146,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2421
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2496,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 2771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2426,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 2626
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2023,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 2223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2631,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 2755
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1894,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2760,
+                    "endLine": 64,
+                    "endColumn": 9,
+                    "endOffset": 2972
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endLine": 15,
+                        "endColumn": 9,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2977,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 3160
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3165,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 3295
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3300,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 3527
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 1702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3532,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 3719
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3162,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 3349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3724,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 3857
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3354,
+                        "endLine": 76,
+                        "endColumn": 12,
+                        "endOffset": 3487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3862,
+                    "endLine": 87,
+                    "endColumn": 12,
+                    "endOffset": 4059
+                },
+                "from": {
+                    "file": "/Users/hello/Projects/tpt/app/src/main/res/values-ldpi/style_frag_path.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3492,
+                        "endLine": 80,
+                        "endColumn": 12,
+                        "endOffset": 3689
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="ro.mihai.tpt"
+    android:installLocation="auto"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="17" />
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:testOnly="false"
+        android:theme="@android:style/Theme.Holo.Light.NoActionBar"
+        tools:targetApi="honeycomb_mr2">
+        <activity
+            android:name="ro.ds.tpt.SplashScreen"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="ro.ds.tpt.LoadCity"/>
+        <activity android:name="ro.ds.tpt.ViewCatFavorites" />
+        <activity android:name="ro.ds.tpt.ViewCatTrams" />
+        <activity android:name="ro.ds.tpt.ViewCatBusses" />
+        <activity android:name="ro.ds.tpt.ViewCatTrolleys" />
+        <activity android:name="ro.ds.tpt.ViewTimes" />
+        <activity android:name="ro.ds.tpt.ViewCredits" />
+        <activity android:name="ro.ds.tpt.ViewUserCredits" />
+        <activity android:name="ro.ds.tpt.Preferences" />
+
+        <service
+            android:name="ro.ds.tpt.data.DataService"
+            android:icon="@drawable/icon"
+            android:label="@string/service_name"
+            android:permission="android.permission.INTERNET">
+            <intent-filter>
+                <action android:name="ro.mihai.tpt.UPDATE_LINE" />
+                <action android:name="ro.mihai.tpt.UPDATE_STATIONS" />
+            </intent-filter>
+        </service>
+        <receiver android:name="ro.ds.tpt.WidgetStation">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/station_widget_provider" />
+        </receiver>
+
+    </application>
+</manifest> 

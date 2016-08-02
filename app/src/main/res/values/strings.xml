@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">Loading...</string>
+    <string name="app_name">Zoom</string>
+    <string name="service_name">Public Transport Data Service</string>
+
+    <string name="upd">Update Times</string>
+    <string name="upd_error">Update could not complete. Some network connection errors have been encountered. Selecting an alternate download URL from the settings may fix this if your internet connection is working.</string>
+
+    <string name="sel">Select Line</string>
+	<string name="selTrams">Tram Lines</string>
+	<string name="selTrolleys">Trolleybus Lines</string>
+	<string name="selBus">Bus Lines</string>
+	<string name="selPathLabel">Select Direction</string>
+	<string name="selConnections">Select Connections</string>
+	<string name="app_settings">Settings</string>
+	<string name="app_credits">Author Credits</string>
+	<string name="switch_direction">Switch Direction</string>
+	<string name="app_user_achieves">Medaliile calatorului</string>
+
+	<string name="lblTrams">Tramvaie</string>
+	<string name="lblTrolleys">Troleibuze</string>
+	<string name="lblBus">Autobuze</string>
+	<string name="lblExpress">Expres</string>
+	<string name="lblMetro">Metropolitan</string>
+	<string name="lblOther">Alte legaturi</string>
+
+	<string name="lblStation">Statie</string>
+	<string name="lblVehicle">Vehicol</string>
+	<string name="lblBoarding">In statie</string>
+	<string name="lblBarredLine">Barat</string>
+
+	<string name="lblShortTrams">tramvai</string>
+	<string name="lblShortTrolleys">troleibuz</string>
+	<string name="lblShortBus">autobuz</string>
+	<string name="lblShortExpress">expres</string>
+	<string name="lblShortMetro">metropolitan</string>
+	<string name="lblShortOther">masina</string>
+
+	<string name="lblStatusAllIsGood">OK</string>
+	<string name="lblStatusWaitingUpdate">Actualizare</string>
+	<string name="lblStatusNetworkError">Eroare de conexiune la internet</string>
+	<string name="lblStatusUpdateCanceled">Actualizare anulata</string>
+
+	<string name="lblVStatusAway"></string>
+	<string name="lblVStatusBoarding">in statie</string>
+	<string name="lblVStatusArriving">se apropie</string>
+	<string name="lblVStatusDeparting">paraseste statia</string>
+	<string name="lblVStatusArrivingDeparting">tranzit</string>
+
+	<string name="lblExampleLine">E33</string>
+	<string name="lblExampleLineKind">troleibuz</string>
+	<string name="lblExampleDeparture">Catedrala Mitropolitana</string>
+	<string name="lblExampleArrival">Pod Calea Sagului</string>
+	<string name="lblExampleTime">77 min</string>
+	<string name="lblExampleError">Network/Internet error</string>
+
+    <string name="lblAffirmative">Da</string>
+    <string name="lblNegative">Nu</string>
+
+    <string name="achvYourName">Aici numele tau</string>
+    <string name="achvPhila">Filantrop</string>
+    <string name="achvPhilaDesc">Contribuie la imbunatatirea estimarilor</string>
+
+
+</resources>

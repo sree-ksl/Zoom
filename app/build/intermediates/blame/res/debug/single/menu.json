@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/menu/about_menu.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/menu/about_menu.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/menu/times_menu.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/menu/times_menu.xml"
+    }
+]

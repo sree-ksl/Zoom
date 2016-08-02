@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tv7.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tv7.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/arrow_left_button.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/arrow_left_button.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tv4.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tv4.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tv1.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tv1.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/row_back_even.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/row_back_even.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/bus_button.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/bus_button.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/widget_back.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/widget_back.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/menu_light_button.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/menu_light_button.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/trolleybus_button.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/trolleybus_button.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tram_button.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tram_button.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tb16.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tb16.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/widget_back_selector.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/widget_back_selector.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tb19.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tb19.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/direction.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/direction.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/row_back_updating.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/row_back_updating.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/button_flat_back.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/button_flat_back.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/row_back_transparent.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/row_back_transparent.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/arrow_right_button.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/arrow_right_button.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tv8.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tv8.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tv6.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tv6.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/star_on_button.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/star_on_button.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tb18.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tb18.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/star_off_button.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/star_off_button.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/plus_button.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/plus_button.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tb15.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tb15.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/widget_active_back.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/widget_active_back.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tb17.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tb17.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/badge_contributor.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/badge_contributor.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tb14.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tb14.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tv2.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tv2.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tv9.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tv9.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tv5.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tv5.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/upd_button.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/upd_button.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/tb11.png",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/tb11.png"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/drawable/row_back_odd.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/drawable/row_back_odd.xml"
+    }
+]

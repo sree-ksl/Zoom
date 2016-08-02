@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/list_categories.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/list_categories.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/frag_times_path2.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/frag_times_path2.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/frag_title.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/frag_title.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/widget_loading.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/widget_loading.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/frag_times_actions.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/frag_times_actions.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/frag_vehicle_types.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/frag_vehicle_types.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/list_user_credits.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/list_user_credits.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/a_list_favorites.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/a_list_favorites.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/a_list_times.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/a_list_times.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/infl_station_time.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/infl_station_time.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/infl_connection_time.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/infl_connection_time.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/list_credits.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/list_credits.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/widget_station.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/widget_station.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/list_favorites.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/list_favorites.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/frag_title_back.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/frag_title_back.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/list_times.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/list_times.xml"
+    },
+    {
+        "merged": "/Users/hello/Projects/tpt/app/build/intermediates/res/merged/debug/layout/loading.xml",
+        "source": "/Users/hello/Projects/tpt/app/src/main/res/layout/loading.xml"
+    }
+]

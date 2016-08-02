@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    style="@style/LikeTitleContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dip"
+    android:background="@drawable/widget_back_selector">
+
+    <LinearLayout
+        style="@style/LikeTitleIcon"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/LineName"
+                style="@style/PathLineLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
+                android:lines="1"
+                android:minEms="2"
+                android:text="@string/lblExampleLine"
+                android:textColor="@color/vehicle_bus" />
+
+            <ImageView
+                android:id="@+id/LineBarredKind"
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_alignBottom="@id/LineName"
+                android:layout_alignLeft="@id/LineName"
+                android:layout_alignRight="@id/LineName"
+                android:layout_alignTop="@id/LineName"
+                android:layout_marginBottom="-8dp"
+                android:contentDescription="@string/lblBarredLine"
+                android:scaleType="fitCenter"
+                android:src="@drawable/barat"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/LineKind"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:lines="1"
+            android:text="@string/lblExampleLineKind"
+            android:textColor="@color/vehicle_bus"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/DepartureStation"
+        style="@style/StandardHItem"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/StationLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="-3dp"
+            android:text="@string/lblExampleDeparture"
+            android:textColor="#FFE0E0E0"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/StationTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblExampleTime"
+            android:textColor="@color/vehicle_bus"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/DirectionChanger"
+        style="@style/PathRightArrow"
+        android:contentDescription="@string/selPathLabel"
+        android:scaleType="centerCrop"
+        android:src="@drawable/btn_w_arrow_right_high" />
+
+    <TextView
+        android:id="@+id/DestinationStationLabel"
+        style="@style/StandardHItem"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:text="@string/lblExampleArrival"
+        android:textColor="#FFE0E0E0"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/UpdateButton"
+        style="@style/InlineUpdateButton"
+        android:scaleType="centerCrop"
+        android:src="@drawable/upd_button" />
+</LinearLayout> 

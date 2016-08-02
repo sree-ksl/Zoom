@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="loading">Loading...</string>
+    <string name="app_name">Zoom</string>
+    <string name="service_name">Public Transport Data Service</string>
+
+    <string name="upd">Update Times</string>
+    <string name="upd_error">Update could not complete. Some network connection errors have been encountered. Selecting an alternate download URL from the settings may fix this if your internet connection is working.</string>
+
+    <string name="sel">Select Line</string>
+    <string name="selTrams">Tram Lines</string>
+    <string name="selTrolleys">Trolleybus Lines</string>
+    <string name="selBus">Bus Lines</string>
+    <string name="selPathLabel">Select Direction</string>
+    <string name="selConnections">Select Connections</string>
+    <string name="app_settings">Settings</string>
+    <string name="app_credits">Author Credits</string>
+    <string name="switch_direction">Switch Direction</string>
+    <string name="app_user_achieves">User achievements</string>
+
+    <string name="lblTrams">Tram</string>
+    <string name="lblTrolleys">Trolley Bus</string>
+    <string name="lblBus">City Bus</string>
+    <string name="lblExpress">Express Bus</string>
+    <string name="lblMetro">Metro Bus</string>
+    <string name="lblOther">Other connection</string>
+
+    <string name="lblStation">Station</string>
+    <string name="lblVehicle">Vehicle</string>
+    <string name="lblBoarding">Boarding</string>
+    <string name="lblBarredLine">Barred</string>
+
+    <string name="lblShortTrams">tram</string>
+    <string name="lblShortTrolleys">trolleybus</string>
+    <string name="lblShortBus">bus</string>
+    <string name="lblShortExpress">express</string>
+    <string name="lblShortMetro">metro</string>
+    <string name="lblShortOther">other</string>
+
+    <string name="lblStatusAllIsGood">OK</string>
+    <string name="lblStatusWaitingUpdate">Updating</string>
+    <string name="lblStatusNetworkError">Network/Internet error</string>
+    <string name="lblStatusUpdateCanceled">Update canceled</string>
+
+    <string name="lblVStatusAway"></string>
+    <string name="lblVStatusBoarding">boarding</string>
+    <string name="lblVStatusArriving">arriving</string>
+    <string name="lblVStatusDeparting">departing</string>
+    <string name="lblVStatusArrivingDeparting">changing</string>
+
+    <string name="lblExampleLine">E33</string>
+    <string name="lblExampleLineKind">troleibuz</string>
+    <string name="lblExampleDeparture">Catedrala Mitropolitana</string>
+    <string name="lblExampleArrival">Pod Calea Sagului</string>
+    <string name="lblExampleTime">7 min</string>
+    <string name="lblExampleError">Network/Internet error</string>
+    <string name="lblExampleFeature">DEMO! implementat partial!</string>
+
+    <string name="lblAffirmative">Yes</string>
+    <string name="lblNegative">No</string>
+
+    <string name="achvYourName">Your name here</string>
+    <string name="achvPhila">Philanthropist</string>
+    <string name="achvPhilaDesc">Helps improve estimate accuracy.</string>
+
+</resources>
